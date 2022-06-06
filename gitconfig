@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = aminlamnaouar@gmail.com
+	name = Amine Lamnaouar
